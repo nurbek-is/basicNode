@@ -1,8 +1,5 @@
 {
   "name": "minimum-html",
   "description": "A basic HTML application",
-  "version": "1.0.0",
-  "script":{
-    "start":"node server.js"
-  }
+  "version": "1.0.0"
 }
