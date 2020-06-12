@@ -1,5 +1,5 @@
 {
-  "name": "minimum-html",
-  "description": "A basic HTML application",
+  "name": "basic-routing",
+  "description": "A basic HTML application with routing",
   "version": "1.0.0"
 }
